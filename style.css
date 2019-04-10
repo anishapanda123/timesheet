@@ -1,0 +1,72 @@
+ul {
+  list-style-type: none;
+  margin-bottom:0px;
+  margin-top: 0px;
+  padding:0;
+  width: 200px;
+  height: 100%;
+  background-color:#b3b3ff;
+}
+/* .background-blur{
+  background: url("https://cdn.hipwallpaper.com/i/42/12/m1hxFd.jpg");
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+  height: 100%; 
+  background-repeat: no-repeat;
+} */
+/* .bg{
+    background: url("https://cdn.hipwallpaper.com/i/42/12/m1hxFd.jpg");
+    background-repeat: 'no-repeat';
+    background-size: 'contain';
+    width:100%
+    } */
+li a {
+  display: block;
+  color:white;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-size: large;
+}
+.disp
+{
+	height: 40px;
+	line-height: 40px;
+	background: #ffffff;
+  color: #666;
+  list-style: none;
+  font-size: 20px;
+}
+.disp:hover{
+  background: #f7f7f7;
+}
+li a:hover {
+  background-color: #bfbfbf;
+  color: white;
+}
+.label{
+color: rgb(108, 108, 197);
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: xx-large;
+}
+.picture{
+  background-image: url('./images/img2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+}
+
+.b1:hover{
+background-color: white;
+color: #9999ff;
+}
+.b2:hover{
+background-color: white;
+color: #9999ff;
+}
+.img1{
+background-image: url('./images/img2.jpg');
+background-size: cover;
+
+}
